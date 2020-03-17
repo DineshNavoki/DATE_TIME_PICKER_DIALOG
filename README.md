@@ -1,6 +1,5 @@
 # flutterdatetimedialog
-
-A new Flutter application.
+Read complete article on Flutter Date and Time Picker visit here, https://navoki.com/date-time-picker-dialog-using-flutter/.
 
 ## Getting Started
 
